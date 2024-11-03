@@ -38,7 +38,9 @@ Wang W, Zheng V W, Yu H, et al. A survey of zero-shot learning: Settings, method
 
 **PSVMA**: Liu M, Li F, Zhang C, et al. Progressive semantic-visual mutual adaption for generalized zero-shot learning（*CVPR 2023*）[[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Progressive_Semantic-Visual_Mutual_Adaption_for_Generalized_Zero-Shot_Learning_CVPR_2023_paper.pdf) [[code]](https://github.com/ManLiuCoder/PSVMA)
 
-**PORNet**: Liu M, Zhang C, Bai H, et al. Part-object progressive refinement network for zero-shot learning（*TPAMI 2024*）[[paper]](https://ieeexplore.ieee.org/document/10471325) [[code]](https://github.com/ManLiuCoder/POPRNet)
+**ReZSL**: Ye Z, Yang G, Jin X, et al. Rebalanced zero-shot learning（*TIP 2023*）[[paper]](https://ieeexplore.ieee.org/abstract/document/10188601) [[code]](https://github.com/FouriYe/ReZSL-TIP23)
+
+**PORNet**: Liu M, Zhang C, Bai H, et al. Part-object progressive refinement network for zero-shot learning（*TIP 2024*）[[paper]](https://ieeexplore.ieee.org/document/10471325) [[code]](https://github.com/ManLiuCoder/POPRNet)
 
 **ZSLViT**: Chen S, Hou W, Khan S, et al. Progressive Semantic-Guided Vision Transformer for Zero-Shot Learning（*CVPR 2024*）[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Progressive_Semantic-Guided_Vision_Transformer_for_Zero-Shot_Learning_CVPR_2024_paper.pdf) [[code]](https://github.com/shiming-chen/ZSLViT)
 
