@@ -48,15 +48,15 @@ Wang W, Zheng V W, Yu H, et al. A survey of zero-shot learning: Settings, method
 
 **ZSLViT**: Chen S, Hou W, Khan S, et al. Progressive Semantic-Guided Vision Transformer for Zero-Shot Learning（*CVPR 2024*）[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Progressive_Semantic-Guided_Vision_Transformer_for_Zero-Shot_Learning_CVPR_2024_paper.pdf) [[code]](https://github.com/shiming-chen/ZSLViT)
 
+**PSVMA+**: Liu M, Bai H, Li F, et al. PSVMA+: Exploring Multi-Granularity Semantic-Visual Adaption for Generalized Zero-Shot Learning（*TPAMI 2024*）[[paper]](https://ieeexplore.ieee.org/abstract/document/10693541)
+
+**IAB**: Jiang C, Shen Y, Chen D, et al. Estimation of Near-Instance-Level Attribute Bottleneck for Zero-Shot Learning（*IJCV 2024*）[[paper]](https://link.springer.com/article/10.1007/s11263-024-02021-x) [[code]](https://github.com/LanchJL/IAB-GZSL)
+
 #### Generative-based
 
 **CADA-VAE**: Schonfeld E, Ebrahimi S, Sinha S, et al. Generalized zero-and few-shot learning via aligned variational autoencoders（*CVPR 2019*）[[paper]](https://arxiv.org/pdf/1812.01784.pdf) [[code]](https://github.com/edgarschnfld/CADA-VAE-PyTorch)
 
 **SDGZSL**: Chen Z, Luo Y, Qiu R, et al. Semantics disentangling for generalized zero-shot learning（*ICCV 2021*）[[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Semantics_Disentangling_for_Generalized_Zero-Shot_Learning_ICCV_2021_paper.pdf) [[code]](https://github.com/uqzhichen/SDGZSL)
-
-**PSVMA+**: Liu M, Bai H, Li F, et al. PSVMA+: Exploring Multi-Granularity Semantic-Visual Adaption for Generalized Zero-Shot Learning（*TPAMI 2024*）[[paper]](https://ieeexplore.ieee.org/abstract/document/10693541)
-
-**IAB**: Jiang C, Shen Y, Chen D, et al. Estimation of Near-Instance-Level Attribute Bottleneck for Zero-Shot Learning（*IJCV 2024*）[[paper]](https://link.springer.com/article/10.1007/s11263-024-02021-x) [[code]](https://github.com/LanchJL/IAB-GZSL)
 
 #### CLIP-based
 
